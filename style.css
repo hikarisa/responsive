@@ -69,7 +69,7 @@ footer{
   margin-top: 50px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   header{
     width: 100%;
   }
